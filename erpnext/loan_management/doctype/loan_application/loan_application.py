@@ -225,3 +225,6 @@ def add_test_method():
 
 def add_test_method_2():
 	pass
+
+def add_test_method_3():
+	pass

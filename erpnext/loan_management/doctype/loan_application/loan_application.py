@@ -222,3 +222,6 @@ def get_proposed_pledge(securities):
 
 def add_test_method():
 	pass
+
+def add_test_method_2():
+	pass

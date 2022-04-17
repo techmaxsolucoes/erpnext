@@ -218,3 +218,7 @@ def get_proposed_pledge(securities):
 	proposed_pledges['maximum_loan_amount'] = maximum_loan_amount
 
 	return proposed_pledges
+
+
+def add_test_method():
+	pass
